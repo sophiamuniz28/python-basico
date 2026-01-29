@@ -14,3 +14,7 @@ desenvolvidos para praticar lógica de programação.
 ## Objetivo
 Reforçar conceitos básicos de programação.
 
+## Conteúdo
+- Verificação de número par ou ímpar
+- Cálculo de média de notas
+
