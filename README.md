@@ -1,20 +1,14 @@
 # Python Básico
 
-## Sobre o projeto
-Este repositório contém exercícios simples em Python,
-desenvolvidos para praticar lógica de programação.
+Projetos e exercícios desenvolvidos durante o aprendizado dos fundamentos da linguagem Python.
 
-## Conteúdo
-- Exercícios iniciais
-- Estruturas condicionais (if/else)
+## 📚 Conteúdo
+- Estruturas básicas
+- Operadores
+- Cálculos e aplicações práticas
 
-## Linguagem utilizada
+## 🛠️ Tecnologias utilizadas
 - Python
 
-## Objetivo
-Reforçar conceitos básicos de programação.
-
-## Conteúdo
-- Verificação de número par ou ímpar
-- Cálculo de média de notas
-
+## 🎯 Objetivo
+Aplicar conceitos fundamentais de programação e evoluir na construção de soluções simples.
